@@ -1,1 +1,1 @@
-yamlconf	
+yamlconf @ git+https://github.com/theresnotime/yamlconf@master
